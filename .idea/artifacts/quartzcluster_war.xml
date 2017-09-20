@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="quartzcluster:war">
+    <output-path>$PROJECT_DIR$/quartzcluster/target</output-path>
+    <root id="archive" name="QuartzCluster.war">
+      <element id="artifact" artifact-name="quartzcluster:war exploded" />
+    </root>
+  </artifact>
+</component>
